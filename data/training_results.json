@@ -1,0 +1,90 @@
+{
+  "accuracy": [
+    {
+      "epoch": 1,
+      "value": 0.7334
+    },
+    {
+      "epoch": 2,
+      "value": 0.7891
+    },
+    {
+      "epoch": 3,
+      "value": 0.8365
+    },
+    {
+      "epoch": 4,
+      "value": 0.9205
+    },
+    {
+      "epoch": 5,
+      "value": 0.9441
+    }
+  ],
+  "loss": [
+    {
+      "epoch": 1,
+      "value": 0.6862
+    },
+    {
+      "epoch": 2,
+      "value": 0.4422
+    },
+    {
+      "epoch": 3,
+      "value": 0.3471
+    },
+    {
+      "epoch": 4,
+      "value": 0.1634
+    },
+    {
+      "epoch": 5,
+      "value": 0.0
+    }
+  ],
+  "precision": [
+    {
+      "epoch": 1,
+      "value": 0.7101
+    },
+    {
+      "epoch": 2,
+      "value": 0.7355
+    },
+    {
+      "epoch": 3,
+      "value": 0.7631
+    },
+    {
+      "epoch": 4,
+      "value": 0.8578
+    },
+    {
+      "epoch": 5,
+      "value": 0.894
+    }
+  ],
+  "recall": [
+    {
+      "epoch": 1,
+      "value": 0.7119
+    },
+    {
+      "epoch": 2,
+      "value": 0.7888
+    },
+    {
+      "epoch": 3,
+      "value": 0.7657
+    },
+    {
+      "epoch": 4,
+      "value": 0.9087
+    },
+    {
+      "epoch": 5,
+      "value": 0.8909
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "PERSON": "Full names of individuals",
+  "EMAIL": "Email addresses",
+  "PHONE": "Phone numbers including international formats",
+  "DATE": "Dates in any format (YYYY-MM-DD, DD/MM/YY, etc.)",
+  "ORG": "Companies, institutions, organizations",
+  "LOCATION": "Cities, countries, addresses",
+  "ID": "Identification numbers (SSN, passport, etc.)"
+}
